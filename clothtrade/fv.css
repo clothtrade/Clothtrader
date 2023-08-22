@@ -1,0 +1,31 @@
+
+div .box{
+width:100px;
+flex-wrap:pwrap;
+justify-content:
+space-around;
+
+}
+div .card{
+width:200px;
+text-align:center;
+margin-top:30px;
+border:1px solid gray;
+box-shadow: 10px 0px 0px 0px white;
+padding-left:98px;
+flex-wrap:wrap;
+float:left;
+border-radius:30px;
+border-color:transparent;
+}
+div .card img{
+width:200px;
+height:300px;
+flex-wrap:wrap;
+border-radius:30px;
+border-color:transparent;
+}
+ol{
+padding-right:-5px;
+margin-top:-2px;
+}

@@ -1,0 +1,41 @@
+body
+{
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+.container
+{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+.button
+{
+position:relative;
+text-align:center;
+width:120px;
+height:30px;
+padding:5px;
+font-size:25px;
+color:blue;
+font-family:serif;
+font weight:500;
+border:3px solid blue;
+text-transform:uppercase;
+cursor:pointer;
+border-radius:200px;
+transaction:5.5s;
+}
+.button:hover
+{
+box-shadow:0 100px 1000px #15f4ee inset,0 5px 50px 0 #15f4ee,
+0 10px 100px 0 #15f4ee  inset,0 5px 50px 0 #15f4;
+}
+a{
+color:transparent;
+}
+
+
+
